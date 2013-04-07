@@ -1,0 +1,8 @@
+What is OpenGL?
+http://www.glprogramming.com/red/chapter01.html
+
+http://nehe.gamedev.net/tutorial/rotation/14001/
+
+http://content.gpwiki.org/index.php/SDL:Tutorials:Using_SDL_with_OpenGL
+
+http://www.lonesock.net/soil.html
